@@ -1,0 +1,5 @@
+﻿  OSaSP_Lab2.cpp
+C:\Users\User\OneDrive\Рабочий стол\5 семестр\ос\OSaSP_Lab2\OSaSP_Lab2\OSaSP_Lab2.cpp(37,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5 семестр\ос\OSaSP_Lab2\OSaSP_Lab2\OSaSP_Lab2.cpp(79,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\User\OneDrive\Рабочий стол\5 семестр\ос\OSaSP_Lab2\OSaSP_Lab2\OSaSP_Lab2.cpp(124,121): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  OSaSP_Lab2.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\5 семестр\ос\OSaSP_Lab2\x64\Debug\OSaSP_Lab2.exe
